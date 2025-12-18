@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 100">
+  <!-- Upward trending line with arrow -->
+  <path d="M 20 80 L 260 80 L 280 20" stroke="#0EA5E9" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Arrow head with segments -->
+  <rect x="268" y="24" width="8" height="8" fill="#0EA5E9" transform="rotate(45 272 28)"/>
+  <rect x="268" y="32" width="8" height="8" fill="#0EA5E9" transform="rotate(45 272 36)"/>
+  <!-- Arrow tip -->
+  <path d="M 280 20 L 268 28 L 275 33 Z" fill="#0EA5E9"/>
+</svg>
