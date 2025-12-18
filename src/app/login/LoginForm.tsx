@@ -33,7 +33,6 @@ export function LoginForm() {
   return (
     <Column justifyContent="center" alignItems="center" gap="6">
         <Logo />
-      <Heading>new v2</Heading>
       <Form onSubmit={handleSubmit} error={getErrorMessage(error)}>
         <FormField
           label={formatMessage(labels.username)}
